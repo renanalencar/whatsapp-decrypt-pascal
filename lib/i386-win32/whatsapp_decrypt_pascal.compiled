@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\FPC\3.2.0\bin\i386-Win32\fpc.exe" Date="1355043128"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\Users\renan\Sites\whatsapp-decrypt-pascal\lib\i386-win32 -FuC:\Users\renan\Sites\CryptoLib4Pascal\CryptoLib\src\Packages\FPC\lib\i386-win32 -FuC:\Users\renan\AppData\Local\lazarus\onlinepackagemanager\packages\SimpleBaseLib\src\Packages\FPC\lib\i386-win32 -FuC:\Users\renan\AppData\Local\lazarus\onlinepackagemanager\packages\HashLib\src\Packages\FPC\lib\HashLib4Pascal\i386-win32 -FuC:\lazarus\packager\units\i386-win32 -FuC:\Users\renan\Sites\whatsapp-decrypt-pascal\ -FUC:\Users\renan\Sites\whatsapp-decrypt-pascal\lib\i386-win32\ -FEC:\Users\renan\Sites\whatsapp-decrypt-pascal\ -oC:\Users\renan\Sites\whatsapp-decrypt-pascal\whatsapp_decrypt_pascal.exe whatsapp_decrypt_pascal.lpr"/>
+</CONFIG>
